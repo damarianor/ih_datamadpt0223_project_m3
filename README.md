@@ -1,9 +1,7 @@
-<p align="left"><img src="https://www.google.es/url?sa=i&url=https%3A%2F%2Fuk.pandora.net%2Fen%2Fdiscover%2Fpandora-world%2Fmaterials%2Fstones%2Flab-created-diamonds%2F&psig=AOvVaw1rk4R8D_ISjggaquXh7sK3&ust=1687684689630000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICKwtTJ2_8CFQAAAAAdAAAAABAD"></p>
-
 # Project M3
 # Diamonds Price Prediction
 
-![Data Model](images/us.jpg)
+![Diamonds](images/diamonds.jpeg)
 
 ## Overview
 
