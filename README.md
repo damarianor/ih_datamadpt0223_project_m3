@@ -27,12 +27,12 @@ The repository is organized as follows:
 
 In this project it is been used Python, Pandas, Seaborn and Plotly to make an exploratory process of the data and to draw some explanatory plots and different machine learning models in order to achieve the minimum RMSE:
 
-Gradient Boosting Regressor.
-Cat Boost.
-MLP Regressor.
-Random Forest Regressor.
-XGB Regressor
-Support Vector Regressor
+- Gradient Boosting Regressor.
+- Cat Boost.
+- MLP Regressor.
+- Random Forest Regressor.
+- XGB Regressor
+- Support Vector Regressor
 
 ## EDA Results
 
